@@ -1,0 +1,6 @@
+export { default as StudentProfile } from './StudentProfile'
+export { default as TeacherProfile } from './TeacherProfile'
+export { default as HeadmasterProfile } from './HeadmasterProfile'
+export { default as CommitteeProfile } from './CommitteeProfile'
+export { default as InternshipProfile } from './InternshipProfile'
+export { default as AdminProfile } from './AdminProfile'
